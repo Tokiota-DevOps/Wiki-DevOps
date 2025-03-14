@@ -38,8 +38,8 @@ Una reflexión final sobre cómo la adopción de estas prácticas puede transfor
 
 ## 🚀 **¿Por qué es importante?**
 
-El objetivo de esta Wiki es proporcionar una **guía integral** para ayudar a los equipos de desarrollo y operaciones a adoptar las mejores prácticas de DevOps, garantizando que puedan trabajar juntos de manera más eficiente y producir software de **alta calidad** de manera rápida y confiable. Además, facilita la implementación de una infraestructura **automatizada**, **segura** y **escalable** que esté alineada con las necesidades comerciales.
+El objetivo de esta Wiki es proporcionar una **guía integral** para ayudar a los equipos de desarrollo y operaciones de Tokiota a adoptar las mejores prácticas de DevOps, garantizando que puedan trabajar juntos de manera más eficiente y producir software de **alta calidad** de manera rápida y confiable. Además, facilita la implementación de una infraestructura **automatizada**, **segura** y **escalable** que esté alineada con las necesidades comerciales.
 
 ## 👨‍💻 **¿A Quién Va Dirigido?**
 
-Este contenido está dirigido a equipos de **desarrolladores**, **operaciones** e **ingenieros de infraestructura** que estén buscando mejorar sus procesos de trabajo y adoptar un enfoque DevOps para optimizar sus flujos de trabajo, implementación de código y gestión de infraestructuras.
+Este contenido está dirigido a equipos de **desarrolladores**, **operaciones** e **ingenieros de infraestructura** de Tokiota que estén buscando mejorar sus procesos de trabajo y adoptar un enfoque DevOps para optimizar sus flujos de trabajo, implementación de código y gestión de infraestructuras.
